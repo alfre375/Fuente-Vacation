@@ -1,0 +1,9 @@
+.title {
+    color: lightgreen;
+    background-color: lightyellow;
+    border-width: 12cm;
+    border-color: skyblue;
+    border-radius: 12pt;
+    /*text-shadow: 2px 2px springgreen;*/
+    text-align: center;
+}
